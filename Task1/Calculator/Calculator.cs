@@ -2,7 +2,6 @@
 
 namespace Task1.Calculator;
 
-
 /// <summary>
 /// Класс калькулятора, реализующий интерфейс ICalculator.
 /// </summary>
